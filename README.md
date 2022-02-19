@@ -9,3 +9,4 @@ serverless install \
   --url https://github.com/softprops/serverless-aws-rust-http \
   --name hello-json-crab-lamb
 ```
+

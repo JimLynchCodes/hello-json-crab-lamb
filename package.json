@@ -1,0 +1,13 @@
+{
+  "name": "hello-json-crab-lamb",
+  "scripts": {
+    "start": "",
+    "test": "cargo test",
+    "deploy": "serverless deploy"
+  },
+  "devDependencies": {
+    "serverless": "^3.2.1",
+    "serverless-offline": "^8.4.0",
+    "serverless-rust": "^0.3.8"
+  }
+}
